@@ -1,2 +1,0 @@
-5 hypothesis banani hai kis bhi data sets , se jin mei 2 titanic aur iris hai.
-google se pata karna hai ke kon kon se words ham use kartei hai hypothesis ko likhne ke lia aur phir 5 hypothesis banane hai
